@@ -1,6 +1,18 @@
 # EDA Key Insights
 
-
+ethiopia-fi-forecast/
+├── notebooks/
+│   ├── README.md
+│   └── eda_analysis.ipynb
+│
+├── reports/
+│   ├── eda_insights.md
+│   └── figures/
+│
+└── data/
+    └── processed/
+        ├── ethiopia_fi_unified_data_enriched.csv
+        └── impact_links_enriched.csv
 ## Insight 1: Account ownership growth
 
 Evidence:
