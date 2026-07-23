@@ -1,0 +1,10 @@
+parent_id,ACCOUNT_OWNERSHIP,ACC_4G_COV,ACC_MM_ACCOUNT,ACC_OWNERSHIP,AFF_DATA_INCOME,GEN_GAP_ACC,USG_MPESA_ACTIVE,USG_MPESA_USERS,USG_P2P_COUNT,USG_TELEBIRR_USERS
+EVT_0001,,,,high,,,,,high,high
+EVT_0002,,medium,,,medium,,,,,
+EVT_0003,,,medium,,,,,high,,
+EVT_0004,,,,medium,,medium,,,,
+EVT_0005,,,,,high,,,,,
+EVT_0007,,,,,,,medium,,medium,
+EVT_0008,,,,,,,,,medium,
+EVT_0010,,,,,low,,,,,
+EVT_NEW_001,medium,,,,,,,,,
